@@ -34,8 +34,7 @@ mysql database
    git clone https://github.com/FaithOrone/To-Do.git
    cd todoloist app
 
-# Running tests
-# Delopyment
+
 
   
 
